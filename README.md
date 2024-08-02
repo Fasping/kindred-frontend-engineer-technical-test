@@ -17,8 +17,7 @@ npm run dev
 ```
 
 ## 🚀DEMO
-
-[Deploy](https://kindred-frontend-engineer-technical-test.vercel.app/)
+- [Deploy](https://kindred-frontend-engineer-technical-test.vercel.app/)
 
 ## 🗃API
 
